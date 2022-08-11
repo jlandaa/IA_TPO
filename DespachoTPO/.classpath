@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DespachoTPOintegracion"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/jaxrpc-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/resteasy-jaxrs-3.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Downloads/lib2/saaj.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 9.x Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_111">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zeta/Desktop/Eclipse/Proyectos/IA_TPO/gson-2.2.2.jar/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,22 @@
+Te dejo la carpeta en donde esta la libreria de GSON , la misma te permite 
+
+convertir de texto a JSON y de JSON a Object y viceversa
+
+En el drive lo que dice Mensajes Asincronicos serian las colas que tendriasmos que tener
+
+una topic (lo deje mas o menos hecho en el MDB) t_nuevosarticulos a la que nos subscribimos con el ONMESSAGE
+
+
+
+t_solicitudarticulos es la cola que tenemos que crear nosotros desde la consola del WildFly, en la misma
+
+colocamos las solicitudes de las ordenes que recibimos de logistica
+
+
+
+q_logs es la otra cola que tenemos en donde colocamos todas las actividades que hicimos y que sirve para las
+
+auditorias (por ej a las 12:12:12 se creo un nuevo articulo, etc)
+
+
+En cada una de las colas esta especificado mas abajo el string que tendriamos que mandar
